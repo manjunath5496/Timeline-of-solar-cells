@@ -2,7 +2,7 @@
 <li><a href="#course1">Foundations of Western Culture: The Making of the Modern World</a></li>
 <li><a href="#course2">Reading Poetry</a></li>
 <li><a href="#course3">Introduction to Drama</a></li>
-<li><a href="#course4">Mechanics and Materials II</a></li>
+<li><a href="#course4">Shakespeare</a></li>
 <li><a href="#course5">Engineering Dynamics</a></li>
 <li><a href="#course6">Dynamics and Control I</a></li>
 <li><a href="#course7">Dynamics and Control II</a></li>
@@ -374,6 +374,30 @@
 <td headers="col1">28</td>
 <td headers="col2">Reflections. Reports. Evaluations.<br /><br /><em>Objective<br /><br /></em>To reflect, to evaluate. To reap the benefits of one another's research.&nbsp;To celebrate achievement and community.</td>
 <td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course4">Shakespeare</h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col">ASSIGNMENTS</th>
+<th id="col2" scope="col">STUDENT SAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Essay 1 (<a href="essay1_f03.pdf">PDF</a>)</td>
+<td headers="col2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Essay 2 (<a href="shak_fiassgnment.pdf">PDF</a>)</td>
+<td headers="col2">(<a href="rosenberg.pdf">PDF</a>)<br /><br />Eleanor Pritchard (<a href="pritchard.pdf">PDF</a>) (Courtesy of Eleanor Pritchard. Used with permission.)<br /><br />Samantha Polak (<a href="polak.pdf">PDF</a>) (Courtesy of Samantha Polak. Used with permission.)<br /><br />(<a href="karlik.pdf">PDF</a>)<br /><br />(<a href="hutch.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Essay 3 (<a href="essay3.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
