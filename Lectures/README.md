@@ -23,7 +23,7 @@
 <li><a href="#course22">Modern Drama</a></li>
 <li><a href="#course23">Medieval Literature: Legends of Arthur</a></li>
 <li><a href="#course24">Popular Narrative: Masterminds</a></li>
-<li><a href="#course25">Engineering Math: Differential Equations and Linear Algebra</a></li>
+<li><a href="#course25">Popular Culture and Narrative: Use and Abuse of the Fairy Tale</a></li>
 <li><a href="#course26">Finite Element Analysis of Solids and Fluids I</a></li>
 <li><a href="#course27">Finite Element Analysis of Solids and Fluids II</a></li>
 <li><a href="#course28">Introduction to Robotics</a></li>
@@ -777,7 +777,69 @@
 
 </br>
 
+<h2 id="course25">Popular Culture and Narrative: Use and Abuse of the Fairy Tale</h2>
 
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p><a href="2/MIT21L_430F15_EllisGrimms.pdf"><em>Ellis and the Grimms; German nationalism; folk tradition; oral and written culture</em>&nbsp;(PDF)</a></p>
+<p><a href="2/MIT21L_430F15_Ossian.pdf">'Ossian', James Macpherson, and the Antiquity of Oral Tradition (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT21L_430F15_TatarClassicFairyTales.pdf">Key stories from Maria Tatar's&nbsp;<em>The Classic Fairy Tales</em>&nbsp;(PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT21L_430F15_Albert.pdf">Albert B. Lord, The Singer of Tales (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="2/MIT21L_430F15_Lizanne.pdf">Lizanne Henderson and Edward J. Cowan, Scottish Fairy Belief (PDF)</a></p>
+<p><a href="2/MIT21L_430F15_Evans.pdf">W. Y. Evans&ndash;Wentz, The Fairy&ndash;Faith in Celtic Countries (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p><a href="2/MIT21L_430F15_CalvinS.pdf">Calvin S. Hall and Vernon J. Nordby, A Primer of Jungian Psychology (PDF)</a></p>
+<p><a href="2/MIT21L_430F15_Carl.pdf">Carl G. Jung, Man and His Symbols (PDF)</a></p>
+<p><a href="2/MIT21L_430F15_Marie.pdf">Marie&ndash;Louise von Franz, The Interpretation of Fairy Tales (PDF)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="2/MIT21L_430F15_Christa.pdf">Christa Kamenetsky, Children's Literature in Hitler's Germany - The Cultural Policy of National Socialism (PDF)</a></p>
+<p><a href="2/MIT21L_430F15_Mosse.pdf">George L. Mosse,&nbsp;<em>The Culture of Western Europe</em>, showing connections between the work of the Grimms and the rise of Nazism in Germany (PDF)</a></p>
+<p><a href="2/MIT21L_430F15_Summary.pdf">Summary of Christa Kamenetsky's Argument (PDF)</a></p>
+<p><a href="2/MIT21L_430F15_TheEnchanted.pdf">Jack Zipes, The Enchanted Screen&mdash;The Unknown History of Fairy-Tale Films (PDF)</a></p>
+<p><a href="2/MIT21L_430F15_JackZipes.pdf">Jack Zipes, Irresistable Fairy Tale (PDF)</a></p>
+<p><a href="2/MIT21L_430F15_WhenDreams.pdf">Jack Zipes, When Dreams Came True: Classical Fairy Tales and Their Tradition (PDF)</a></p>
+</td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT21L_430F15_AngelaCarter.pdf">Angela Carter&mdash;A Brief Guide to Non&ndash;Featured Stories (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>
+<p><a href="2/MIT21L_430F15_Robert.pdf">Robert Graves, The White Goddess&mdash;A Historical Grammar of Poetic Myth (PDF)</a></p>
+<p><a href="2/MIT21L_430F15_LizLoch.pdf">Liz Lochhead Reading Guide (PDF)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
 
+</br>
+
+<h2 class="subhead">Writing Resources</h2>
+<p><a href="2/MIT21L_430F15_Writing.pdf">Writing Discursive Essays (PDF)</a></p>
+<p>Tips and advice on the four stages of writing an essay.</p>
+<p><a href="2/MIT21L_430F15_ANote.pdf">A Note on References (PDF)</a></p>
+<p>A guide on how to cite references.</p>
+</br>
 
