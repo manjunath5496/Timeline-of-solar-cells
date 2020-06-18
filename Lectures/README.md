@@ -26,51 +26,8 @@
 <li><a href="#course25">Popular Culture and Narrative: Use and Abuse of the Fairy Tale</a></li>
 <li><a href="#course26">Comedy</a></li>
 <li><a href="#course27">Small Wonders: Media, Modernity, and the Moment: Experiments in Time</a></li>
-<li><a href="#course28">Introduction to Robotics</a></li>
+<li><a href="#course28">The Art of the Probable: Literature and Probability</a></li>
 <li><a href="#course29">Modeling and Simulation of Dynamic System</a></li>
-<li><a href="#course30">Maneuvering and Control of Surface and Underwater Vehicles</a></li>
-<li><a href="#course31">Computational Geometry</a></li>
-<li><a href="#course32">Identification, Estimation, and Learning</a></li>
-<li><a href="#course33">Hydrofoils and Propellers</a></li>
-<li><a href="#course34">Ocean Wave Interaction with Ships and Offshore Energy Systems</a></li>
-<li><a href="#course35">Marine Hydrodynamics</a></li>
-<li><a href="#course36">Signal Processing: Continuous and Discrete</a></li>
-<li><a href="#course37">Advanced Fluid Mechanics</a></li>
-<li><a href="#course38">Compressible Fluid Dynamics</a></li>
-<li><a href="#course39">Turbulent Flow and Transport</a></li>
-<li><a href="#course40">Numerical Fluid Mechanics</a></li>
-<li><a href="#course41">Numerical Marine Hydrodynamics</a></li>
-<li><a href="#course42">Internal Combustion Engines</a></li>
-<li><a href="#course43">Fundamentals of Advanced Energy Conversion</a></li>
-<li><a href="#course44">Optical Engineering</a></li>
-<li><a href="#course45">Elements of Mechanical Design</a></li>
-<li><a href="#course46">Precision Machine Design</a></li>
-<li><a href="#course47">Multi-Scale System Design</a></li>
-<li><a href="#course48">Micro/Nano Engineering Laboratory</a></li>
-<li><a href="#course49">Acoustical Oceanography</a></li>
-<li><a href="#course50">Radiative Transfer</a></li>
-<li><a href="#course51">Nano-to-Macro Transport Processes</a></li>
-<li><a href="#course52">Desalination and Water Purification</a></li>
-<li><a href="#course53">Macromolecular Hydrodynamics</a></li>
-<li><a href="#course54">Fundamentals of Photovoltaics</a></li>
-<li><a href="#course55">Fundamentals of Advanced Energy Conversion</a></li>
-<li><a href="#course56">Marine Power and Propulsion</a></li>
-<li><a href="#course57">Cell-Matrix Mechanics</a></li>
-<li><a href="#course58">Design of Medical Devices and Implants</a></li>
-<li><a href="#course59">Optics</a></li>
-<li><a href="#course60">Decision Making in Large Scale Systems</a></li>
-<li><a href="#course61">Direct Solar/Thermal to Electrical Energy Conversion Technologies</a></li>
-<li><a href="#course62">Biomedical Devices Design Laboratory</a></li>
-<li><a href="#course63">Designing Paths to Peace</a></li>
-<li><a href="#course64">Economics of Marine Transportation Industries</a></li>
-<li><a href="#course65">Tribology</a></li>
-<li><a href="#course66">System Design and Analysis based on AD and Complexity Theories</a></li>
-<li><a href="#course67">Introduction to Manufacturing Systems</a></li>
-<li><a href="#course68">Manufacturing Systems Analysis</a></li>
-<li><a href="#course69">Mechanical Assembly and Its Role in Product Development</a></li>
-<li><a href="#course70">Introduction to Numerical Analysis for Engineering</a></li>
-<li><a href="#course71">Management in Engineering</a></li>
-<li><a href="#course72">Control of Manufacturing Processes</a></li>
 
 
 </ul>
@@ -866,3 +823,26 @@
 </table>
 
 </br>
+<h2 id="course28">The Art of the Probable: Literature and Probability</h2>
+
+<h2 class="subhead">Background</h2>
+<p>Essay assignment guidelines (<a href="2/essay_guide.pdf">PDF</a>)</p>
+<p>"Style sheet" for margin notations (<a href="2/kibel_stylesheet.pdf">PDF</a>) &mdash; Prof. Kibel</p>
+<p>Oral presentation guidelines (<a href="2/raman_orals.pdf">PDF</a>) &mdash; Prof. Raman</p>
+<h2 class="subhead">Essay 1</h2>
+<p>Compiled essay topics from all 3 instructors (<a href="2/essay1_compiled.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Example Student Essay</h3>
+<p>Brumbaugh, Victoria. "Action and Uncertainty in Pascal's Wager and Shakespeare's&nbsp;<em>Hamlet</em>." (<a href="2/essay1_brumbaugh.pdf">PDF</a>)</p>
+<h2 class="subhead">Essay 2</h2>
+<p>Compiled essay topics from all 3 instructors (<a href="2/essay2_compiled.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Example Student Essays</h3>
+<p>Ouyang, Annie. "Exploring the Philosophy of Purpose in Voltaire's&nbsp;<em>Candide</em>." (<a href="2/essay2_ouyang.pdf">PDF</a>)</p>
+<p>Zomnir, Michael. "An Examination of the Role of Evil in the World as it is Considered in the Works of Leibniz and Darwin." (<a href="2/essay2_zomnir.pdf">PDF</a>)</p>
+<h2 class="subhead">Essay 3</h2>
+<p>Compiled essay topics from all 3 instructors (<a href="2/essay3_compiled.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Example Student Essays</h3>
+<p>Brumbaugh, Victoria. "Inconsistency and Chance in&nbsp;<em>Rosencrantz and Guildenstern are Dead</em>." (<a href="2/essay3_brumbaugh.pdf">PDF</a>)</p>
+<p>Ouyang, Annie. "Links between Human Rationality and Animal Savagery in&nbsp;<em>The Island of Dr. Moreau</em>." (<a href="2/essay3_ouyang.pdf">PDF</a>)</p>
+<p>Zomnir, Michael. "On the Erroneous Consideration of Wells' Dr. Moreau as an Allegory for Darwin's Theory of Natural Selection." (<a href="2/essay3_zomnir.pdf">PDF</a>)</p>
+</br>
+
