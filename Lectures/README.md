@@ -3,7 +3,7 @@
 <li><a href="#course2">Reading Poetry</a></li>
 <li><a href="#course3">Introduction to Drama</a></li>
 <li><a href="#course4">Shakespeare</a></li>
-<li><a href="#course5">Engineering Dynamics</a></li>
+<li><a href="#course5">The Film Experience</a></li>
 <li><a href="#course6">Dynamics and Control I</a></li>
 <li><a href="#course7">Dynamics and Control II</a></li>
 <li><a href="#course8">Systems, Modeling, and Control II</a></li>
@@ -402,3 +402,11 @@
 </tbody>
 </table>
 </br>
+<h2 id="course5">The Film Experience</h2>
+
+<h2 class="subhead">Lecture Outlines (2013)</h2>
+<p><a href="MIT21L_011F13_lec_outlines.pdf">Prof. Thorburn's Fall 2013 lecture outlines (PDF)</a></p>
+<h2 class="subhead">Lecture Notes by a Student (2006)</h2>
+<p><a href="MIT21L_011F13_2006_Notes.pdf">Compiled lecture notes taken by a student in 2006 (PDF - 1.1MB)</a></p>
+</br>
+
