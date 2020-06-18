@@ -22,7 +22,7 @@
 <li><a href="#course21">The American Novel: Stranger and Stranger</a></li>
 <li><a href="#course22">Modern Drama</a></li>
 <li><a href="#course23">Medieval Literature: Legends of Arthur</a></li>
-<li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
+<li><a href="#course24">Popular Narrative: Masterminds</a></li>
 <li><a href="#course25">Engineering Math: Differential Equations and Linear Algebra</a></li>
 <li><a href="#course26">Finite Element Analysis of Solids and Fluids I</a></li>
 <li><a href="#course27">Finite Element Analysis of Solids and Fluids II</a></li>
@@ -737,4 +737,47 @@
 <p>Malory Visual Map Project by an anonymous student:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT21L_460F13_Anon1_vs_map.pdf">Malory Visual Map (PDF)</a>,&nbsp;<a href="2/MIT21L_460F13_Anon1_Was.pdf">Malory - Was Justice Served? Report (PDF)</a>&nbsp;(Courtesy of an anonymous MIT student. Used with permission.)</p>
 
 </br>
+<h2 id="course24">Popular Narrative: Masterminds</h2>
+
+
+<table class="tablewidth50" summary="This table contains student samples."><caption class="subhead">&nbsp;</caption>
+<thead>
+<tr class="tableheader">
+<th id="col1" scope="col" abbr="Week Number">TITLES</th>
+<th id="col2" scope="col">STUDENT SAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col1">Hawthorne Analysis (Courtesy of Rose Grabowsky.&nbsp; Used with permission.)</td>
+<td headers="col2">(<a href="2/MIT21L_430F04_hawt_ana.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Faustus Analysis (Courtesy of Rose Grabowsky.&nbsp; Used with permission.)</td>
+<td headers="col2">(<a href="2/MIT21L_430F04_analysis.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Unthinking Scientists (On Hawthorne and Frankenstein.) (Courtesy of Lindsay Hays.&nbsp; Used with permission.)</td>
+<td headers="col2">(<a href="2/MIT21L_430F04_unthink.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">The Role of Supporting Characters in Dr. Faustus. (Courtesy of Lindsay Hays.&nbsp; Used with permission.)</td>
+<td headers="col2">(<a href="2/MIT21L_430F04_support.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Hawthorne&nbsp;and Frankenstein Journal. (Courtesy of Zachary Weston.&nbsp; Used with permission.)</td>
+<td headers="col2">(<a href="2/MIT21L_430F04_hawt_frank.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Thoughts on Caligari and Faustus. (Courtesy of Zachary Weston.&nbsp; Used with permission.)</td>
+<td headers="col2">(<a href="2/MIT21L_430F04_caligari.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
 
