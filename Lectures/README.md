@@ -13,7 +13,7 @@
 <li><a href="#course12">Studies in Poetry - British Poetry and the Sciences of the Mind</a></li>
 <li><a href="#course13">Studies in Poetry: From the Sonneteers to the Metaphysicals</a></li>
 <li><a href="#course14">Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats</a></li>
-<li><a href="#course15">Design of Ocean Systems</a></li>
+<li><a href="#course15">Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America</a></li>
 <li><a href="#course16">Dynamics</a></li>
 <li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
 <li><a href="#course18">Systems and Controls</a></li>
@@ -613,5 +613,31 @@
 <h2 class="subhead">Student Work</h2>
 <p>Martha Angela Wilcox, "A Bemuddled Contrast of Human Mortality with Keatsian Immortality Through Diction, Imagery, and Symbolism In Yeats' &ldquo;Sailing to Byzantium"&nbsp;(<a href="wilcox_essay1_yeats.pdf">PDF</a>) (Courtesy of Martha Angela Wilcox.&nbsp; Used with permission.)</p>
 </br>
-
-
+<h2 id="course15">Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">STUDENTS</th>
+<th scope="col">ASSIGNMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Naomi&nbsp;Stein</td>
+<td>
+<p>Final draft (<a href="1/finaldraft.pdf">PDF</a>)</p>
+<p>(Courtesy of Naomi Stein. Used with permission.)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>MIT student</td>
+<td>
+<p>Warrens close reading revision (<a href="1/warencl_readrev.pdf">PDF</a>)</p>
+<p>Research paper (<a href="1/researchpaper.pdf">PDF</a>)</p>
+<p>Childrens hour (<a href="1/childrenshour.pdf">PDF</a>)</p>
+<p>(Courtesy of MIT Student. Used with permission.)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
