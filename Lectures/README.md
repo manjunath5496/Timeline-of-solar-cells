@@ -5,7 +5,7 @@
 <li><a href="#course4">Shakespeare</a></li>
 <li><a href="#course5">The Film Experience</a></li>
 <li><a href="#course6">Forms of Western Narrative</a></li>
-<li><a href="#course7">Dynamics and Control II</a></li>
+<li><a href="#course7">Special Topics in Literature: Milton's "Paradise Lost"</a></li>
 <li><a href="#course8">Systems, Modeling, and Control II</a></li>
 <li><a href="#course9">Modeling Dynamics and Control II</a></li>
 <li><a href="#course10">Design and Manufacturing I</a></li>
@@ -443,4 +443,18 @@
 </tbody>
 </table>
 </br>
+<h2 id="course7">Special Topics in Literature: Milton's "Paradise Lost"</h2>
+
+<h2 class="subhead">Introductory</h2>
+<p>Essential backgrounds for reading Milton (<a href="background.pdf">PDF</a>)</p>
+<p>"Thee" and "Thou": How they work (<a href="thee_thou.pdf">PDF</a>)</p>
+<h2 class="subhead">Books</h2>
+<p>Study questions, books I-IV (<a href="questions_1_4.pdf">PDF</a>)</p>
+<p>Study questions, books V-X (<a href="questions_5_10.pdf">PDF</a>)</p>
+<p>Notes on book VIII (<a href="book8_outline.pdf">PDF</a>)</p>
+<h2 class="subhead">Summary</h2>
+<p>What happens in&nbsp;<em>Paradise Lost</em>&nbsp;(<a href="what_happens.pdf">PDF</a>)</p>
+</br>
+
+
 
