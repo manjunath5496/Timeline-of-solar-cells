@@ -17,7 +17,7 @@
 <li><a href="#course16">Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America</a></li>
 <li><a href="#course17">Studies in Fiction: Rethinking the American Masterpiece</a></li>
 <li><a href="#course18">The Bible</a></li>
-<li><a href="#course19">Wave Propagation</a></li>
+<li><a href="#course19">Contemporary Literature: Literature, Development, and Human Rights</a></li>
 <li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
 <li><a href="#course21">Computational Ocean Acoustics</a></li>
 <li><a href="#course22">Structural Mechanics</a></li>
@@ -665,3 +665,13 @@
 <p>Old Testament Prophecies Fulfilled in the Gospel Narratives (<a href="1/prophecies.pdf">PDF</a>)</p>
 <p>Testimoniums (<a href="1/testimoniums.pdf">PDF</a>)</p>
 </br>
+<h2 id="course19">Contemporary Literature: Literature, Development, and Human Rights</h2>
+<p>Introduction to Theories of Development (<a href="1/thresofdevbronot.pdf">PDF</a>)</p>
+<p>Introduction to the World Bank and IMF (<a href="1/intowrldbankimf.pdf">PDF</a>)</p>
+<p>Notes on Realism (and Georg Luckacs) (<a href="1/notes_on_realism.pdf">PDF</a>)</p>
+<p>Postmodernism: Notes Towards Some Definitions (<a href="1/21l_488_pstlecnt.pdf">PDF</a>)</p>
+<p>Introduction to Postcolonialism (<a href="1/int_to_pstcolnsm.pdf">PDF</a>)</p>
+</br>
+
+
+
