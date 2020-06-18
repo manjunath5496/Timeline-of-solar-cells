@@ -20,7 +20,7 @@
 <li><a href="#course19">Contemporary Literature: Literature, Development, and Human Rights</a></li>
 <li><a href="#course20">The New Spain:1977-Present</a></li>
 <li><a href="#course21">The American Novel: Stranger and Stranger</a></li>
-<li><a href="#course22">Structural Mechanics</a></li>
+<li><a href="#course22">Modern Drama</a></li>
 <li><a href="#course23">Ship Structural Analysis & Design</a></li>
 <li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
 <li><a href="#course25">Engineering Math: Differential Equations and Linear Algebra</a></li>
@@ -717,5 +717,10 @@
 <p><a href="1/MIT21L_501S13_essay3Samp2.pdf">"Reflection of History in&nbsp;<em>Absalom, Absalom!</em>" (PDF)</a>&nbsp;by Lakshmi Subbaraj</p>
 </br>
 
+<h2 id="course22">Modern Drama</h2>
 
-
+<p>Roe, David. "The Search for Meaning." (<a href="1/david_roe.pdf">PDF</a>)</p>
+<p>Anonymous student. "Violent and Isolating Potentials of Familial Relationships in Beckett's&nbsp;<em>Happy Days</em>&nbsp;and Churchill's&nbsp;<em>A Number</em>." (<a href="1/anonymous_paper.pdf">PDF</a>)</p>
+<p>Lam, Jessica. "Consequences of Anglicizing Gaelic Names." (<a href="1/jessica_lam.pdf">PDF</a>)</p>
+<p>MIT student. "The Women in&nbsp;<em>Copenhagen</em>&nbsp;and&nbsp;<em>Happy Days</em>." (<a href="1/woman.pdf">PDF</a>)</p>
+</br>
