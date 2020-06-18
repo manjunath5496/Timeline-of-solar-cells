@@ -727,18 +727,14 @@
 <h2 id="course23">Medieval Literature: Legends of Arthur</h2>
 
 <h2 class="subhead">Written Assignment 1</h2>
-<p>See&nbsp;<a href="1/MIT21L_460F13_Essy-Wrtg_Tips.pdf">prof's Bahr's compendium of essay writing tips (PDF)</a>&nbsp;for information about this close-reading paper.&nbsp;</p>
+<p>See&nbsp;<a href="2/MIT21L_460F13_Essy-Wrtg_Tips.pdf">prof's Bahr's compendium of essay writing tips (PDF)</a>&nbsp;for information about this close-reading paper.&nbsp;</p>
 <h2 class="subhead">Final Project Assignment</h2>
 <p>There are lots and lots of possibilities for this project: tracing a character or cluster of characters across the&nbsp;<em>Morte's</em>&nbsp;nearly thousand-page span; comparing Caxton's printed edition of 1485, which we will be reading, with the sole surviving manuscript copy, which was unearthed only in 1934 (!!); using your geeky skill set to propose a way of mapping or visualizing the text's extraordinarily complex structures; or (and this is a fine option) writing a more traditional research paper, focusing either on Malory alone or on his manipulation of earlier texts that we've read together.</p>
 <p>Whatever your decision, we will celebrate your work and the end of the semester alike with a final poster session at which you will present and take questions on your work. I will work the room, all of us will invite guests (faculty and student alike), and the event should be a great opportunity to show the room that literary study thrives at MIT&mdash;doing so in a form, moreover, that scientists and engineers will understand.</p>
 <h2 class="subhead">Sample Student Final Projects</h2>
 <p>Two of the students in the class have provided their final projects for publication on OCW and they are presented here with their permission.</p>
-<p>Malory Storyboard Project by Rachael Aptowitz:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT21L_460F13_Storyboard.pdf">Le Morte Storyboard (PDF - 1.3MB)</a>,&nbsp;<a href="1/MIT21L_460F13_Strybrd_Plot.pdf">Le Morte Storyboard Plot (PDF)</a>,&nbsp;<a href="1/MIT21L_460F13_Le_Morte_Anl.pdf">Le Morte Analysis Report (PDF)</a>&nbsp;(Courtesy of Rachael Aptowitz. Used with permission.)</p>
-<p>Malory Visual Map Project by an anonymous student:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/MIT21L_460F13_Anon1_vs_map.pdf">Malory Visual Map (PDF)</a>,&nbsp;<a href="1/MIT21L_460F13_Anon1_Was.pdf">Malory - Was Justice Served? Report (PDF)</a>&nbsp;(Courtesy of an anonymous MIT student. Used with permission.)</p>
+<p>Malory Storyboard Project by Rachael Aptowitz:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT21L_460F13_Storyboard.pdf">Le Morte Storyboard (PDF - 1.3MB)</a>,&nbsp;<a href="2/MIT21L_460F13_Strybrd_Plot.pdf">Le Morte Storyboard Plot (PDF)</a>,&nbsp;<a href="2/MIT21L_460F13_Le_Morte_Anl.pdf">Le Morte Analysis Report (PDF)</a>&nbsp;(Courtesy of Rachael Aptowitz. Used with permission.)</p>
+<p>Malory Visual Map Project by an anonymous student:&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT21L_460F13_Anon1_vs_map.pdf">Malory Visual Map (PDF)</a>,&nbsp;<a href="2/MIT21L_460F13_Anon1_Was.pdf">Malory - Was Justice Served? Report (PDF)</a>&nbsp;(Courtesy of an anonymous MIT student. Used with permission.)</p>
 
 </br>
-
-
-
-
 
