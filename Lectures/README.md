@@ -14,7 +14,7 @@
 <li><a href="#course13">Studies in Poetry: From the Sonneteers to the Metaphysicals</a></li>
 <li><a href="#course14">Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats</a></li>
 <li><a href="#course15">Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America</a></li>
-<li><a href="#course16">Dynamics</a></li>
+<li><a href="#course16">Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America</a></li>
 <li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
 <li><a href="#course18">Systems and Controls</a></li>
 <li><a href="#course19">Wave Propagation</a></li>
@@ -640,4 +640,11 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course16">Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America</h2>
+
+<ul>
+<li>William Wells Brown and the Jefferson and Hemings Scandal. (<a href="1/william_w_brown.pdf">PDF</a>) (Courtesy of Kristin Hrabak. Used with permission.)</li>
+<li>Law and Slave Identity in Dred and Pudd'nhead Wilson.&nbsp;(<a href="1/revi_pudd_dred.pdf">PDF</a>) (Courtesy of Kristin Hrabak. Used with permission.)</li>
+</ul>
 </br>
