@@ -18,7 +18,7 @@
 <li><a href="#course17">Studies in Fiction: Rethinking the American Masterpiece</a></li>
 <li><a href="#course18">The Bible</a></li>
 <li><a href="#course19">Contemporary Literature: Literature, Development, and Human Rights</a></li>
-<li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
+<li><a href="#course20">The New Spain:1977-Present</a></li>
 <li><a href="#course21">Computational Ocean Acoustics</a></li>
 <li><a href="#course22">Structural Mechanics</a></li>
 <li><a href="#course23">Ship Structural Analysis & Design</a></li>
@@ -673,5 +673,28 @@
 <p>Introduction to Postcolonialism (<a href="1/int_to_pstcolnsm.pdf">PDF</a>)</p>
 </br>
 
+<h2 id="course20">The New Spain:1977-Present</h2>
 
-
+<h2 class="subhead">Portfolios</h2>
+<h3 class="subsubhead">Presentations</h3>
+<p><a href="1/MIT21L_640JF15_BioMadrid.pdf">"Biotechnolg&iacute;a en las secuelas de Franco" (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_CineSaura.pdf">"Pel&iacute;culas y el R&eacute;gimen de Franco: El seguimiento de un director: Carlos Saura" (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_PresCata.pdf">"Catalunya: para ser independiente o no."<span class="nobr">&nbsp;(PDF - 1.3MB)</span></a></p>
+<h3 class="subsubhead">Final Reports</h3>
+<p><a href="1/MIT21L_640JF15_BioFranco.pdf">"Biotechnolg&iacute;a en las secuelas de Franco" (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_PortfCarlos.pdf">"Carlos Saura: el desarrollo de pel&iacute;culas durante y despu&eacute;s del r&eacute;gimen de Francisco Franco."</a><a href="1/MIT21L_640JF15_PortfCarlos.pdf">&nbsp;(PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_PaperCata.pdf">"Catalunya despu&eacute;s de Franco." (PDF)</a></p>
+<h3 class="subsubhead">Annotated Bibliography</h3>
+<p><a href="1/MIT21L_640JF15_Bibliogrphy.pdf">Annotated Bibliography: Catalunya despu&eacute;s de Franco (PDF)</a></p>
+<h2 class="subhead">Weekly Homework Assignments</h2>
+<p><a href="1/MIT21L_640JF15_HW1.pdf">Homework assignment 1 (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_HW2.pdf">Homework assignment 2 (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_HW3.pdf">Homework assignment 3 (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_HW4.pdf">Homework assignment 4 (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_HW5.pdf">Homework assignment 5 (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_HW6.pdf">Homework assignment 6 (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_HW7.pdf">Homework assignment 7 (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_HW8.pdf">Homework assignment 8 (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_HW9.pdf">Homework assignment 9 (PDF)</a></p>
+<p><a href="1/MIT21L_640JF15_HW10.pdf">Homework assignment 10 (PDF)</a></p>
+</br>
