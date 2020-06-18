@@ -845,7 +845,7 @@
 <p>Ouyang, Annie. "Links between Human Rationality and Animal Savagery in&nbsp;<em>The Island of Dr. Moreau</em>." (<a href="2/essay3_ouyang.pdf">PDF</a>)</p>
 <p>Zomnir, Michael. "On the Erroneous Consideration of Wells' Dr. Moreau as an Allegory for Darwin's Theory of Natural Selection." (<a href="2/essay3_zomnir.pdf">PDF</a>)</p>
 </br>
-<h2 id="course30">Learning from the Past: Drama, Science, Performance</h2>
+<h2 id="course29">Learning from the Past: Drama, Science, Performance</h2>
 <h2 class="subhead">Assignment Guidelines</h2>
 <p>Comparative short essay (<a href="2/MIT21L_016s09_assn01_guide_paper.pdf">PDF</a>)</p>
 <p>Analytic research paper (<a href="2/MIT21L_016s09_assn02_guide_respaper.pdf">PDF</a>)</p>
