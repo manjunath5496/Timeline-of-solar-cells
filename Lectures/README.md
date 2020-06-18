@@ -9,7 +9,7 @@
 <li><a href="#course8">Studies in Literary History: Modernism: From Nietzsche to Fellini</a></li>
 <li><a href="#course9">Ethnic Literature in America</a></li>
 <li><a href="#course10">Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen</a></li>
-<li><a href="#course11">Design and Manufacturing II</a></li>
+<li><a href="#course11">Major Authors: Old English and Beowulf</a></li>
 <li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
 <li><a href="#course13">Hydrodynamics</a></li>
 <li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
@@ -518,4 +518,11 @@
 <p>Example student work -&nbsp;<a href="MIT21L_707S17_Fifth_Essay.pdf">The Evolution of Carrot Cake (PDF)</a></p>
 </br>
 <p>Example student work -&nbsp;<a href="MIT21L_707S17_Outline_Florence_White.pdf">Good Things in England (PDF)</a>&nbsp;(Provided by Harini Suresh and used with permission.)</p>
+</br>
+<h2 id="course11">Major Authors: Old English and Beowulf</h2>
+
+<ul>
+<li><a href="MIT21L_705S14_Moc_Exm.pdf">Mock Exam (PDF - 1.5MB)</a></li>
+<li><a href="MIT21L_705S14_Moc_Exm_Key.pdf">Mock Exam Key (PDF)</a></li>
+</ul>
 </br>
