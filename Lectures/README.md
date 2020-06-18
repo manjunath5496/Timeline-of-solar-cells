@@ -19,7 +19,7 @@
 <li><a href="#course18">The Bible</a></li>
 <li><a href="#course19">Contemporary Literature: Literature, Development, and Human Rights</a></li>
 <li><a href="#course20">The New Spain:1977-Present</a></li>
-<li><a href="#course21">Computational Ocean Acoustics</a></li>
+<li><a href="#course21">The American Novel: Stranger and Stranger</a></li>
 <li><a href="#course22">Structural Mechanics</a></li>
 <li><a href="#course23">Ship Structural Analysis & Design</a></li>
 <li><a href="#course24">Numerical Computation for Mechanical Engineers</a></li>
@@ -698,3 +698,24 @@
 <p><a href="1/MIT21L_640JF15_HW9.pdf">Homework assignment 9 (PDF)</a></p>
 <p><a href="1/MIT21L_640JF15_HW10.pdf">Homework assignment 10 (PDF)</a></p>
 </br>
+<h2 id="course21">The American Novel: Stranger and Stranger</h2>
+
+<h2 class="subhead">Essay 1: Mapping Melville</h2>
+<p>Due session 11</p>
+<p>For this essay, you will explore Melville's imagination of a vast space, the geographical world of&nbsp;<em>Moby-Dick</em>. Using a digital mapping tool called&nbsp;<a href="http://mobile.mit.edu/projects/open-locast-framework/">Locast</a>&nbsp;and a database of Melville's place names keyed to the Longman Critical Edition of the text, you will choose a geographical location or region that interests you. Use Annotation Studio to search&nbsp;<em>Moby-Dick</em>&nbsp;and annotate relevant place names, adding comments, images, and links to useful online materials. You will then create a "cast," or small collection of images, video clips, and comments, to upload to Locast, to populate the class's map of Melville's world, and to share with the class on session 11. Your essay for this project will reflect on the significance of Melville's references to the location you chose in&nbsp;<em>Moby-Dick</em>, focusing on particular passages in the text.</p>
+<p><a href="1/MIT21L_501S13_essay1.pdf">Resources for Mapping&nbsp;<em>Moby-Dick</em>&nbsp;in Locast (PDF)</a></p>
+<p><a href="1/MIT21L_501S13_essay1sam1.pdf">"Locations as Characters, A Look at Geography in&nbsp;<em>Moby-Dick</em>" (PDF)</a></p>
+<p><a href="1/MIT21L_501S13_essay1Sam2.pdf">"Ahab: The American Tragic Hero" (PDF)</a></p>
+<h2 class="subhead">Essay 2: Genealogies in Jacobs, Twain, or Wharton</h2>
+<p>Due session 19</p>
+<p>These authors illuminate the effects of family relationships across boundaries of race, gender, and class. Careful study of the characters' genealogies and family relationships uncovers distinctive themes, patterns, and structures within the book. Use Annotation Studio to search one of these texts for details of family relationships. Then create a poster displaying what you consider the most significant of these relationships and patterns. You will present your poster in the workshop on session 19. In your essay, show how you see/read the effects of genealogy on the novel's themes or characters, focusing on specific examples and passages in the text.</p>
+<p><a href="1/MIT21L_501S13_essay2Samp.pdf">"Genealogy in&nbsp;<em>Age of Innocence</em>: What's in a Name?" (PDF)</a></p>
+<h2 class="subhead">Essay 3: Timelines in Faulkner or Morrison</h2>
+<p>Due session 26</p>
+<p>Both these authors concern themselves deeply with American history and its impact on their characters. For this project, you will use Annotation Studio to mark temporal elements of one text and reproduce them on a poster, displaying your material in whatever format suits you&mdash;a timeline (of the book's events or of historical events or both) or something less linear. You will present your poster in class on session 26. Your essay will consider the meaning of time or history in some selected aspect of the novel you have chosen.</p>
+<p><a href="1/MIT21L_501S13_essay3Samp.pdf">"Becoming Wilderness: A Look at Betrayal in&nbsp;<em>A Mercy</em>" (PDF)</a></p>
+<p><a href="1/MIT21L_501S13_essay3Samp2.pdf">"Reflection of History in&nbsp;<em>Absalom, Absalom!</em>" (PDF)</a>&nbsp;by Lakshmi Subbaraj</p>
+</br>
+
+
+
