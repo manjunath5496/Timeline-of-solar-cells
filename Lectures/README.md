@@ -10,7 +10,7 @@
 <li><a href="#course9">Ethnic Literature in America</a></li>
 <li><a href="#course10">Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen</a></li>
 <li><a href="#course11">Major Authors: Old English and Beowulf</a></li>
-<li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
+<li><a href="#course12">Studies in Poetry - British Poetry and the Sciences of the Mind</a></li>
 <li><a href="#course13">Hydrodynamics</a></li>
 <li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
 <li><a href="#course15">Design of Ocean Systems</a></li>
@@ -526,3 +526,57 @@
 <li><a href="MIT21L_705S14_Moc_Exm_Key.pdf">Mock Exam Key (PDF)</a></li>
 </ul>
 </br>
+<h2 id="course12">Studies in Poetry - British Poetry and the Sciences of the Mind</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ESSAYS</th>
+<th scope="col">STUDENT&nbsp;WORKS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Essay 1</strong></td>
+</tr>
+<tr class="alt-row">
+<td>James Thomson The Seasons 'Summer'</td>
+<td>Lindsay Hays (<a href="1/thomson_summer.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>An Analysis of Matthew Green's 'The Spleen'</td>
+<td>Emily Proctor (<a href="1/041122_text.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Whatever Is, Is Right</td>
+<td>William Walsh (<a href="1/pope_analysis.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Essay 1 Revised</strong></td>
+</tr>
+<tr class="alt-row">
+<td>For God's Sake! - The Need for a Creator in Brooke's Universal Beauty</td>
+<td>Jonathan Blum (<a href="1/univ_beauty_rev.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Roles of Imagination and Reason in Morality</td>
+<td>Youngsun Cho (<a href="1/imagination.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Impact of the Fundamental Tension between Poetic Craft and the Scientific Principles which Lucretius Introduces in De Rerum Natura</td>
+<td>JoHanna Przybylowski (<a href="1/luc_essay_jnp_v2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Final Essay</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Wordsworth's Examination of the Role of Nature in Reason</td>
+<td>JoHanna Przybylowski&nbsp;(<a href="1/wordsworth_essay.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Torch of Experience</td>
+<td>William Walsh (<a href="1/final_essay.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
