@@ -16,7 +16,7 @@
 <li><a href="#course15">Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America</a></li>
 <li><a href="#course16">Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America</a></li>
 <li><a href="#course17">Studies in Fiction: Rethinking the American Masterpiece</a></li>
-<li><a href="#course18">Systems and Controls</a></li>
+<li><a href="#course18">The Bible</a></li>
 <li><a href="#course19">Wave Propagation</a></li>
 <li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
 <li><a href="#course21">Computational Ocean Acoustics</a></li>
@@ -657,4 +657,11 @@
 <p>"<em>Incidents in the Life of a Slave Girl</em>: Addressing Emancipation and Its Societal Implications" by Alice Chiang (<a href="1/achiang_essay2.pdf">PDF</a>)</p>
 <h3 class="subsubhead">Essay 3</h3>
 <p>"Adventures of&nbsp;<em>Huckleberry Finn</em>: A Boy's Search for Family" by Alice Chiang (<a href="1/achiang_essay3.pdf">PDF</a>)</p>
+</br>
+<h2 id="course18">The Bible</h2>
+<h2 class="subhead">Handouts</h2>
+<p>Motifs, Themes, and Symbols in the Primeval Cycle (Genesis 1:11-11:32) (<a href="1/primeval_cycle.pdf">PDF</a>)</p>
+<p>Correspondences between Genesis 3 (Adam &amp; Eve) and Genesis 4 (Cain &amp; Abel) (<a href="1/correspondences.pdf">PDF</a>)</p>
+<p>Old Testament Prophecies Fulfilled in the Gospel Narratives (<a href="1/prophecies.pdf">PDF</a>)</p>
+<p>Testimoniums (<a href="1/testimoniums.pdf">PDF</a>)</p>
 </br>
