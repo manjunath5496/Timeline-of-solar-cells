@@ -12,7 +12,7 @@
 <li><a href="#course11">Major Authors: Old English and Beowulf</a></li>
 <li><a href="#course12">Studies in Poetry - British Poetry and the Sciences of the Mind</a></li>
 <li><a href="#course13">Studies in Poetry: From the Sonneteers to the Metaphysicals</a></li>
-<li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
+<li><a href="#course14">Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats</a></li>
 <li><a href="#course15">Design of Ocean Systems</a></li>
 <li><a href="#course16">Dynamics</a></li>
 <li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
@@ -597,4 +597,21 @@
 <p>Untitled Sonnet, Meghan Harris (<a href="1/meghan_sonnet.pdf">PDF</a>)</p>
 <p>Untitled Sonnet, Meg Rosenburg (<a href="1/sonnet_meg.pdf">PDF</a>)</p>
 </br>
+<h2 id="course14">Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats</h2>
+<p>Guide to Writing Papers (<a href="paper_guide.pdf">PDF</a>)</p>
+<h2 class="subhead">Assignments</h2>
+<h3 class="subsubhead">Essay 1</h3>
+<p>10-12 pages (one-inch margins, double-spaced, 12 or 14 point font). Due one day after Ses #3. Select one of the following poems by Yeats, and write a cogent, detailed, argumentative analysis of it:</p>
+<ul>
+<li>On a Political Prisoner</li>
+<li>The Black Tower</li>
+<li>A Prayer for My Daughter</li>
+<li>Among School Children</li>
+</ul>
+<h3 class="subsubhead">Essays 2 and 3</h3>
+<p>Use one of the "leadoffs" provided in the class, and write a cogent, detailed analytic essay on one of our assigned poems. The essays should run 5 pages. Due on Ses #8 and two days after Ses #14.</p>
+<h2 class="subhead">Student Work</h2>
+<p>Martha Angela Wilcox, "A Bemuddled Contrast of Human Mortality with Keatsian Immortality Through Diction, Imagery, and Symbolism In Yeats' &ldquo;Sailing to Byzantium"&nbsp;(<a href="wilcox_essay1_yeats.pdf">PDF</a>) (Courtesy of Martha Angela Wilcox.&nbsp; Used with permission.)</p>
+</br>
+
 
