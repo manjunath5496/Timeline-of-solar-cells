@@ -6,7 +6,7 @@
 <li><a href="#course5">The Film Experience</a></li>
 <li><a href="#course6">Forms of Western Narrative</a></li>
 <li><a href="#course7">Special Topics in Literature: Milton's "Paradise Lost"</a></li>
-<li><a href="#course8">Systems, Modeling, and Control II</a></li>
+<li><a href="#course8">Studies in Literary History: Modernism: From Nietzsche to Fellini</a></li>
 <li><a href="#course9">Modeling Dynamics and Control II</a></li>
 <li><a href="#course10">Design and Manufacturing I</a></li>
 <li><a href="#course11">Design and Manufacturing II</a></li>
@@ -456,5 +456,28 @@
 <p>What happens in&nbsp;<em>Paradise Lost</em>&nbsp;(<a href="what_happens.pdf">PDF</a>)</p>
 </br>
 
+<h2 id="course8">Studies in Literary History: Modernism: From Nietzsche to Fellini</h2>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">STUDENTS</th>
+<th scope="col">ASSIGNMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>MIT student</td>
+<td>Final paper (<a href="MIT21L_709F10_assn02.pdf">PDF</a>) (Courtesy of MIT Student. Used with permission.)</td>
+</tr>
+<tr class="alt-row">
+<td>MIT student</td>
+<td>Modernism (<a href="MIT21L_709F10_assn01.pdf">PDF</a>) (Courtesy of MIT Student. Used with permission.)</td>
+</tr>
+<tr class="row">
+<td>MIT student</td>
+<td>On growing up (<a href="MIT21L_709F10_assn03.pdf">PDF</a>) (Courtesy of MIT Student. Used with permission.)</td>
+</tr>
+</tbody>
+</table>
+</br>
