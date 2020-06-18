@@ -15,7 +15,7 @@
 <li><a href="#course14">Studies in Poetry: 20th Century Irish Poetry: The Shadow of W. B. Yeats</a></li>
 <li><a href="#course15">Studies in Drama: Too Hot to Handle: Forbidden Plays in Modern America</a></li>
 <li><a href="#course16">Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America</a></li>
-<li><a href="#course17">Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations</a></li>
+<li><a href="#course17">Studies in Fiction: Rethinking the American Masterpiece</a></li>
 <li><a href="#course18">Systems and Controls</a></li>
 <li><a href="#course19">Wave Propagation</a></li>
 <li><a href="#course20">Advanced Structural Dynamics and Acoustics</a></li>
@@ -647,4 +647,14 @@
 <li>William Wells Brown and the Jefferson and Hemings Scandal. (<a href="1/william_w_brown.pdf">PDF</a>) (Courtesy of Kristin Hrabak. Used with permission.)</li>
 <li>Law and Slave Identity in Dred and Pudd'nhead Wilson.&nbsp;(<a href="1/revi_pudd_dred.pdf">PDF</a>) (Courtesy of Kristin Hrabak. Used with permission.)</li>
 </ul>
+</br>
+<h2 id="course17">Studies in Fiction: Rethinking the American Masterpiece</h2>
+
+<h3 class="subsubhead">Essay 1</h3>
+<p>"Hawthorne's Redefinition of the Market-place" by Alice Chiang (<a href="1/achiang_essay1.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Essay 2</h3>
+<p>"From Trickster to Transgressor in&nbsp;<em>Uncle Tom&rsquo;s Cabin</em>&nbsp;and&nbsp;<em>Benito Cereno</em>" by Kelly Chang (<a href="1/kchang_essay2.pdf">PDF</a>)</p>
+<p>"<em>Incidents in the Life of a Slave Girl</em>: Addressing Emancipation and Its Societal Implications" by Alice Chiang (<a href="1/achiang_essay2.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Essay 3</h3>
+<p>"Adventures of&nbsp;<em>Huckleberry Finn</em>: A Boy's Search for Family" by Alice Chiang (<a href="1/achiang_essay3.pdf">PDF</a>)</p>
 </br>
