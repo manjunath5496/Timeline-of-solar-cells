@@ -4,7 +4,7 @@
 <li><a href="#course3">Introduction to Drama</a></li>
 <li><a href="#course4">Shakespeare</a></li>
 <li><a href="#course5">The Film Experience</a></li>
-<li><a href="#course6">Dynamics and Control I</a></li>
+<li><a href="#course6">Forms of Western Narrative</a></li>
 <li><a href="#course7">Dynamics and Control II</a></li>
 <li><a href="#course8">Systems, Modeling, and Control II</a></li>
 <li><a href="#course9">Modeling Dynamics and Control II</a></li>
@@ -408,5 +408,39 @@
 <p><a href="MIT21L_011F13_lec_outlines.pdf">Prof. Thorburn's Fall 2013 lecture outlines (PDF)</a></p>
 <h2 class="subhead">Lecture Notes by a Student (2006)</h2>
 <p><a href="MIT21L_011F13_2006_Notes.pdf">Compiled lecture notes taken by a student in 2006 (PDF - 1.1MB)</a></p>
+</br>
+
+<h2 id="course6">Forms of Western Narrative</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="introduction.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>The Odyssey</em>, by Homer (<a href="odyssey.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Arthurian Romances</em>, by Chr&eacute;tien (<a href="arthur.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Don Quixote</em>, by Cervantes (<a href="don_quixote.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>The Complete Grimm's Fairy Tales</em>, by the Brothers Grimm (<a href="grimms.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td><em>Frankenstein</em>, by Shelley (<a href="frankenstein.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td><em>Heart of Darkness</em>, by Conrad (<a href="darkness.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 </br>
 
