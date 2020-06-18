@@ -1,5 +1,5 @@
 <ul>
-<li><a href="#course1">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</a></li>
+<li><a href="#course1">Foundations of Western Culture: The Making of the Modern World</a></li>
 <li><a href="#course2">How and Why Machines Work</a></li>
 <li><a href="#course3">Mechanics & Materials I</a></li>
 <li><a href="#course4">Mechanics and Materials II</a></li>
@@ -75,4 +75,34 @@
 
 </ul>
 <p>&nbsp;</p>
-<h2 id="course1">Exploring Sea, Space, & Earth: Fundamentals of Engineering Design</h2>
+<h2 id="course1">Foundations of Western Culture: The Making of the Modern World</h2>
+
+<h2 class="subhead">Student Work (Contributions from course offered in Spring 2004)</h2>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TITLE</th>
+<th scope="col">AUTHOR</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>The Value of Friendship (<a href="MIT21L_002S10_assn01.pdf">PDF</a>)</td>
+<td>Courtesy of Meredith Brown. Used with permission.</td>
+</tr>
+<tr class="alt-row">
+<td>The Duality of Don Quixote's Character as shown through his Attitude towards Dulcinea of El Toboso (<a href="MIT21L_002S10_assn02.pdf">PDF</a>)</td>
+<td>Courtesy of Jordan Wirfs-Brock. Used with permission.</td>
+</tr>
+<tr class="row">
+<td>Moliere's&nbsp;<em>The Misanthrope</em>: Masking the Truth (<a href="MIT21L_002S10_assn03.pdf">PDF</a>)</td>
+<td>Courtesy of Anne Yu. Used with permission.</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
