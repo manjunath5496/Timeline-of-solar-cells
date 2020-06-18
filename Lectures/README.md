@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Foundations of Western Culture: The Making of the Modern World</a></li>
-<li><a href="#course2">How and Why Machines Work</a></li>
+<li><a href="#course2">Reading Poetry</a></li>
 <li><a href="#course3">Mechanics & Materials I</a></li>
 <li><a href="#course4">Mechanics and Materials II</a></li>
 <li><a href="#course5">Engineering Dynamics</a></li>
@@ -102,7 +102,94 @@
 </tbody>
 </table>
 </br>
+<h2 id="course2">Reading Poetry</h2>
 
-
-
-
+<h2 class="subhead">General</h2>
+<p>Essay guidelines (<a href="MIT21l_004s09_assn05_essay.pdf">PDF</a>)</p>
+<p>Background on sonnets (<a href="MIT21l_004s09_assn07_sonnets.pdf">PDF</a>)<br /><br /></p>
+<h2 class="subhead">Assignments</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENT&nbsp;DUE</th>
+<th scope="col">ASSIGNMENT&nbsp;DETAILS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Week #2</td>
+<td>
+<p>Memorize ten lines of a poem(s) by either Emily Dickinson, W. B. Yeats, or William Blake. Recitations will be during Week #2 and #3.</p>
+<h3 class="subsubhead">In Vendler</h3>
+<p>Read appendices pp. 659-685.</p>
+<p>Writing about poetry pp. 311-328.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Week #3 (background on sonnets)</td>
+<td>
+<p>Read Wordsworth's "My Heart Leaps Up," and "The Solitary Reaper" and Yeats' "Among School Children," "The Lake Isle of Innisfree," "Down By the Salley Gardens," Sailing to Byzantium," and "The Second Coming."</p>
+</td>
+</tr>
+<tr class="row">
+<td>Week #3 (readings)</td>
+<td>
+<p>Read Wordsworth's "My Heart Leaps Up," and "The Solitary Reaper" and Yeats' "Among School Children," "The Lake Isle of Innisfree," "Down By the Salley Gardens," and "Sailing to Byzantium."</p>
+<p>Come to class with plentiful observations on "The World Is Too Much With Us." Try to model what we did in class: read the poem many times, out loud too, turn it over and write down what you remember or what strikes you. You can return to the poem and keep writing.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Week #4 (paper 1)</td>
+<td>(<a href="MIT21l_004s09_assn01_paper1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Week #4 (readings)</td>
+<td>
+<p>Vendler: pp. 27-47 and 107-133.</p>
+<p>Stevens, Wallace. "The House Was Quiet and the World Was Calm." (Handout, post).</p>
+<p>&mdash;&mdash;&mdash;. "The Plain Sense of Things."</p>
+<p>Gluck, Louise. 'The School Children." (Vendler, p. 33).</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Week #4 (quiz)</td>
+<td>On material in Vendler appendices 1 and 2; pp. 27-47 and 107-133.</td>
+</tr>
+<tr class="row">
+<td>Week #6 (paper 2)</td>
+<td>(<a href="MIT21l_004s09_assn02_paper2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Week #12 (paper 3)</td>
+<td>(<a href="MIT21l_004s09_assn03_paper3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Week #13 (paper 4 revision)</td>
+<td>(<a href="MIT21l_004s09_assn04_paper4Rev.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">STUDENT</th>
+<th scope="col">ASSIGNMENTS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Tony&nbsp;McDonald</td>
+<td>The house Was quiet and the World was calm (<a href="MIT21l_004s09_sw01_TonysPaper.pdf">PDF</a>) (Courtesy of Tony McDonald. Used with permission)</td>
+</tr>
+<tr class="alt-row">
+<td>MIT student</td>
+<td>Murder me so I may live (<a href="MIT21l_004s09_sw02_DannysPaper.pdf">PDF</a>) (Courtesy of MIT Student. Used with permission)</td>
+</tr>
+<tr class="row">
+<td>MIT student</td>
+<td>A holy paradox (<a href="MIT21l_004s09_sw03_Lilys_Paper.pdf">PDF</a>) (Courtesy of MIT Student. Used with permission)</td>
+</tr>
+</tbody>
+</table>
+</br>
