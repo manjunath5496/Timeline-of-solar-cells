@@ -27,7 +27,7 @@
 <li><a href="#course26">Comedy</a></li>
 <li><a href="#course27">Small Wonders: Media, Modernity, and the Moment: Experiments in Time</a></li>
 <li><a href="#course28">The Art of the Probable: Literature and Probability</a></li>
-<li><a href="#course29">Modeling and Simulation of Dynamic System</a></li>
+<li><a href="#course29">Learning from the Past: Drama, Science, Performance</a></li>
 
 
 </ul>
@@ -845,4 +845,15 @@
 <p>Ouyang, Annie. "Links between Human Rationality and Animal Savagery in&nbsp;<em>The Island of Dr. Moreau</em>." (<a href="2/essay3_ouyang.pdf">PDF</a>)</p>
 <p>Zomnir, Michael. "On the Erroneous Consideration of Wells' Dr. Moreau as an Allegory for Darwin's Theory of Natural Selection." (<a href="2/essay3_zomnir.pdf">PDF</a>)</p>
 </br>
+<h2 id="course30">Learning from the Past: Drama, Science, Performance</h2>
+<h2 class="subhead">Assignment Guidelines</h2>
+<p>Comparative short essay (<a href="2/MIT21L_016s09_assn01_guide_paper.pdf">PDF</a>)</p>
+<p>Analytic research paper (<a href="2/MIT21L_016s09_assn02_guide_respaper.pdf">PDF</a>)</p>
+<p>Oral presentation (<a href="2/MIT21L_016s09_assn03_guide_pres.pdf">PDF</a>)</p>
+<h2 class="subhead">Example Student Work</h2>
+<h3 class="subsubhead">Student Work from the 2007 Class: A Complete Play Script</h3>
+<p>In the 2007 version of this class (which may be accessed through the "Archived Versions" link on the&nbsp;<a href="https://ocw.mit.edu/courses/literature/21l-016-learning-from-the-past-drama-science-performance-spring-2009/index.htm">home page</a>&nbsp;of this class), the students' final assignment was to write and perform a play based on the topics covered during the term.</p>
+<p>"World Turned Upside Down," by the students of 21L.016 and 21M.616, Spring 2007 (<a href="2/MIT21L_016s09_assn04_2007script.pdf">PDF</a>)</p>
+</br>
+
 
