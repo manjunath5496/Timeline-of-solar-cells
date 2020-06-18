@@ -8,7 +8,7 @@
 <li><a href="#course7">Special Topics in Literature: Milton's "Paradise Lost"</a></li>
 <li><a href="#course8">Studies in Literary History: Modernism: From Nietzsche to Fellini</a></li>
 <li><a href="#course9">Ethnic Literature in America</a></li>
-<li><a href="#course10">Design and Manufacturing I</a></li>
+<li><a href="#course10">Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen</a></li>
 <li><a href="#course11">Design and Manufacturing II</a></li>
 <li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
 <li><a href="#course13">Hydrodynamics</a></li>
@@ -487,6 +487,35 @@
 <p><a href="MIT21L_709S17_Essay3_Personal_Identity.pdf">&ldquo;Disruption to Personal Identity in Ruth Ozeki&rsquo;s&nbsp;<em>A Tale for the Time Being</em>&rdquo; (PDF)</a>&nbsp;- Courtesy of Isabel Chien and used with permission.</p>
 <p><a href="MIT21L_709S17_Essay3_Integration.pdf">&ldquo;Where's the Melting Pot?: The Lack of American Integration in Mohsin Hamid's&nbsp;<em>The Reluctant Fundamentalist</em>&rdquo; (PDF)</a>&nbsp;- Courtesy of Nwamaka Amobi and used with permission.</p>
 </br>
+<h2 id="course10">Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen</h2>
 
-
-
+<h2 class="subhead">First Essay (3 pages)</h2>
+<p>Due: Session 4</p>
+<p>Choose a contemporary recipe&mdash;whether from a book, magazine, website, blog, or even a recipe from your family. Who wrote or told it? For/to whom? Is it clear, easy to follow, and accurate? Where would the ingredients be found? What equipment and technology does the recipe require? Is there anything particularly striking about the way it&rsquo;s written/told? Is it accompanied by illustrations or photographs? Does it have an introduction of some sort? What can you infer about the social class, economic status, gender, or religion of the writer? What does the recipe say about the habits, preferences, and aspirations of its intended audience?</p>
+<p>Example student work -&nbsp;<a href="MIT21L_707S17_First_Essay.pdf"><em>The Forest Feast</em>&nbsp;(PDF)</a></p>
+<h2 class="subhead">Second Essay (3-5 pages)</h2>
+<p>Due: Session 6</p>
+<p>Drawing upon the assigned secondary sources, consider&nbsp;<em>The Forme of Cury</em>&nbsp;as a historical artifact. What does the collection tell us about the world that produced it? Select a recipe. Who would have prepared it? For whom? Where would the ingredients have come from? What techniques and kitchen equipment would have been needed? What knowledge does the recipe presuppose? What part of a meal would it have been included in? What is notable about the language of the recipe? What religious and/or nutritional theories does the recipe reflect? [Tip: You&rsquo;ll probably want to check out unfamiliar words in on-line glossaries of medieval cooking terms. Here are links to a few good ones:</p>
+<ul>
+<li><a href="http://www.foodtimeline.org/">The Food Timeline</a></li>
+<li><a href="http://www.angelfire.com/md3/openhearthcooking/aaCookbookindex.html">Historic Cookbooks online</a></li>
+<li><a href="http://www.godecookery.com/glossary/glossary.htm">Glossary of Medieval Cooking Terms</a></li>
+<li><a href="http://www.thousandeggs.com/glossary.html">Glossary of Medieval &amp; Renaissance Culinary Terms</a></li>
+</ul>
+<p>Example student work -&nbsp;<a href="MIT21L_707S17_Second_Essay.pdf"><em>The Forme of Cury</em>&nbsp;(PDF)</a></p>
+<h2 class="subhead">Third Essay (5 pages)</h2>
+<p>Due Session 11</p>
+<p>Choose a recipe or two from Plat&rsquo;s&nbsp;<em>Delightes for Ladies</em>, Markham&rsquo;s&nbsp;<em>The English Housewife</em>, or May&rsquo;s&nbsp;<em>The Accomplisht Cook</em>&nbsp;and compare them with a comparable recipe or two from Glasse&rsquo;s&nbsp;<em>The Art of Cookery Made Plain and Easy</em>. What knowledge did the author bring to his/her book? Who is the intended reader? What tone does the writer strike? What is notable about the ingredients called for? What kitchen equipment is assumed? What can you infer about the writer&rsquo;s gender, religion, class, and/or economic status? As always, use the specifics of the recipes to illustrate your points; be sure to refer to assigned secondary sources.</p>
+<p>Example student work -&nbsp;<a href="MIT21L_707S17_Third_Essay.pdf">The Different Worlds of Robert May and Hannah Glasse (PDF)</a></p>
+<h2 class="subhead">Fourth Essay (5-7 pages)</h2>
+<p>Due Session 19</p>
+<p>Imagine you are writing an introduction to a new edition of one of the 19th-century cookbooks we have considered. It&rsquo;s your job to highlight notable features, whether the presentation of the Victorian household, effects of the Industrial Revolution, ideology of separate spheres, emphasis on charitable cookery, the foregrounding of culinary science, or the depiction of the Empire abroad. As always, refer to specific recipes to illustrate your points, and be sure to draw upon assigned secondary sources.</p>
+<p>Example student work -&nbsp;<a href="MIT21L_707S17_Fourth_Essay.pdf">Soyer's Charitable Impulse (PDF)</a></p>
+<h2 class="subhead">Fifth Essay (7-10 pages)</h2>
+<p>Due: Last session</p>
+<p>Pick a favorite dish from one of the 20th or 21st century cookbooks that we&rsquo;ve studied&mdash;whether french toast, lasagna, cheesecake, roast beef, chicken pot pie, gingerbread, or anything else&mdash;and trace its evolution by finding comparable recipes through the earlier cookbooks we&rsquo;ve read (you may draw upon other cookbooks as well). By now, you should be comfortable reading recipes not just for what they produce, but for what they reveal about the cultures that produced them. How, for instance, did the&nbsp;<em>Forme of Cury&rsquo;s</em>&nbsp;&ldquo;Losyns&rdquo; gradually evolve into what we recognize as lasagna?</p>
+<p><strong>Note for all essays:</strong>&nbsp;When you refer to either primary or secondary sources, you must cite them in your essay using correct format (refer to the&nbsp;<a href="https://style.mla.org/">MLA Handbook</a>).</p>
+<p>Example student work -&nbsp;<a href="MIT21L_707S17_Fifth_Essay.pdf">The Evolution of Carrot Cake (PDF)</a></p>
+</br>
+<p>Example student work -&nbsp;<a href="MIT21L_707S17_Outline_Florence_White.pdf">Good Things in England (PDF)</a>&nbsp;(Provided by Harini Suresh and used with permission.)</p>
+</br>
