@@ -7,7 +7,7 @@
 <li><a href="#course6">Forms of Western Narrative</a></li>
 <li><a href="#course7">Special Topics in Literature: Milton's "Paradise Lost"</a></li>
 <li><a href="#course8">Studies in Literary History: Modernism: From Nietzsche to Fellini</a></li>
-<li><a href="#course9">Modeling Dynamics and Control II</a></li>
+<li><a href="#course9">Ethnic Literature in America</a></li>
 <li><a href="#course10">Design and Manufacturing I</a></li>
 <li><a href="#course11">Design and Manufacturing II</a></li>
 <li><a href="#course12">Introduction to Ocean Science and Engineering</a></li>
@@ -481,3 +481,12 @@
 </tbody>
 </table>
 </br>
+<h2 id="course9">Ethnic Literature in America</h2>
+
+<p><em>Example student work</em></p>
+<p><a href="MIT21L_709S17_Essay3_Personal_Identity.pdf">&ldquo;Disruption to Personal Identity in Ruth Ozeki&rsquo;s&nbsp;<em>A Tale for the Time Being</em>&rdquo; (PDF)</a>&nbsp;- Courtesy of Isabel Chien and used with permission.</p>
+<p><a href="MIT21L_709S17_Essay3_Integration.pdf">&ldquo;Where's the Melting Pot?: The Lack of American Integration in Mohsin Hamid's&nbsp;<em>The Reluctant Fundamentalist</em>&rdquo; (PDF)</a>&nbsp;- Courtesy of Nwamaka Amobi and used with permission.</p>
+</br>
+
+
+
