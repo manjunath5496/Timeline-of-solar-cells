@@ -24,7 +24,7 @@
 <li><a href="#course23">Medieval Literature: Legends of Arthur</a></li>
 <li><a href="#course24">Popular Narrative: Masterminds</a></li>
 <li><a href="#course25">Popular Culture and Narrative: Use and Abuse of the Fairy Tale</a></li>
-<li><a href="#course26">Finite Element Analysis of Solids and Fluids I</a></li>
+<li><a href="#course26">Comedy</a></li>
 <li><a href="#course27">Finite Element Analysis of Solids and Fluids II</a></li>
 <li><a href="#course28">Introduction to Robotics</a></li>
 <li><a href="#course29">Modeling and Simulation of Dynamic System</a></li>
@@ -842,4 +842,12 @@
 <p><a href="2/MIT21L_430F15_ANote.pdf">A Note on References (PDF)</a></p>
 <p>A guide on how to cite references.</p>
 </br>
+<h2 id="course26">Comedy</h2>
+<p>"The Art of the Tragicomicbook: How Bechdel uses comics to her advantage in creating&nbsp;<em>Fun Home</em>" by Emily Pittore (<a href="2/pittore_funhome.pdf">PDF</a>)</p>
+<p>"The Ascendance of the Trivial:&nbsp;<em>The Importance of Being Earnest</em>&nbsp;as Seen through the Lens of Festival Comedy" by Catherine Redfield (<a href="2/redfield_earnest.pdf">PDF</a>)</p>
+</br>
+
+
+
+
 
