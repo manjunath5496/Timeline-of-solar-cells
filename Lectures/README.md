@@ -11,7 +11,7 @@
 <li><a href="#course10">Reading Cookbooks: from The Forme of Cury to The Smitten Kitchen</a></li>
 <li><a href="#course11">Major Authors: Old English and Beowulf</a></li>
 <li><a href="#course12">Studies in Poetry - British Poetry and the Sciences of the Mind</a></li>
-<li><a href="#course13">Hydrodynamics</a></li>
+<li><a href="#course13">Studies in Poetry: From the Sonneteers to the Metaphysicals</a></li>
 <li><a href="#course14">Design of Electromechanical Robotic Systems</a></li>
 <li><a href="#course15">Design of Ocean Systems</a></li>
 <li><a href="#course16">Dynamics</a></li>
@@ -578,5 +578,23 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course13">Studies in Poetry: From the Sonneteers to the Metaphysicals</h2>
+
+<p>This section contains descriptions of the assignments given in the course, along with sample student work.</p>
+<p>Requirements for Paper 2 (<a href="1/21l704_paper2.pdf">PDF</a>)</p>
+<p>Bibliography Project Guidelines (<a href="1/bib_project.pdf">PDF</a>)</p>
+<p>Oral Presentation Guidelines (<a href="1/oral_present.pdf">PDF</a>)</p>
+</br>
+<h2 class="subhead">Sample Student Work</h2>
+<h3 class="subsubhead">Bibliography Paper</h3>
+<p>Prospectus: George Herbert's Poetic Device and Form, Jenny E. Kim (<a href="1/prospet_biblio.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Essay 1</h3>
+<p>"Immortality to Shakespeare", Meg Rosenburg (<a href="1/shakespeare_meg.pdf">PDF</a>)</p>
+<h3 class="subsubhead">Sonnets</h3>
+<p>"TODAY (Marathon Monday, 2006)", Jenny E. Kim (<a href="1/jennykim_sonnets.pdf">PDF</a>)</p>
+<p>Untitled Sonnets,&nbsp;Anonymous (<a href="1/21L704sonnetsjon.pdf">PDF</a>)</p>
+<p>Untitled Sonnet, Meghan Harris (<a href="1/meghan_sonnet.pdf">PDF</a>)</p>
+<p>Untitled Sonnet, Meg Rosenburg (<a href="1/sonnet_meg.pdf">PDF</a>)</p>
 </br>
 
